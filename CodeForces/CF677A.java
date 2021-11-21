@@ -1,3 +1,5 @@
+package CodeForces;
+
 import java.util.Scanner;
 
 // A. Vanya and Fence

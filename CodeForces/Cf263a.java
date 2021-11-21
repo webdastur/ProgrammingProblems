@@ -1,4 +1,6 @@
-import java.util.*;
+package CodeForces;
+
+import java.util.Scanner;
 
 public class Cf263a {
 

@@ -1,3 +1,5 @@
+package RoboContest;
+
 import java.util.Scanner;
 
 // Direktor tashrifi
