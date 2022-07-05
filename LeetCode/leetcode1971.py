@@ -34,7 +34,8 @@ class Solution:
             visited.add(node)
 
             for item in graph[node]:
-                queue.append(item)
+                if item not in queue:
+                    queue.append(item)
 
         return False
 
